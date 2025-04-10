@@ -4,3 +4,5 @@ This repository contains a Jupyter notebook code for:
 - Estimating the truncated power-law memory kernel with Prony series.
 - Simulating a Generalized Langevin Equation (GLE) using a Markovian embedding.
 - Estimating the frequency response, the real and imaginary part of the complex susceptibility.
+
+Arxiv preprint available at https://arxiv.org/abs/2504.06687
