@@ -6,4 +6,4 @@ This repository contains a Jupyter notebook code and numerical simulation data f
 - Estimating the frequency response, the real and imaginary part of the complex susceptibility (GLE_simulation.ipynb)
 - Plotting the figures (plot_figures.ipynb)
 
-Arxiv preprint available at https://arxiv.org/abs/2504.06687
+The paper is now published in Physical Review E: https://journals.aps.org/pre/abstract/10.1103/7q34-r45f
